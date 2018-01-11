@@ -6,11 +6,12 @@
   
   .jumbotron h1 {
     color: #000;
-    text-shadow: 3px 3px #fff;
+    text-shadow: 5px 5px green;
   
   }
   
   .instructions {
     text-align: center; 
+
   }
   
